@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning ORACLE ONE/ ORACLE + Alura.
 <div align="center">
   <a href="https://github.com/caiqueborghese">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=caiqueborghese&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueborghese&layout=compact&langs_count=7&theme=merko"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=caiqueborghese&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueborghese&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
