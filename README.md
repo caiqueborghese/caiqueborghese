@@ -25,5 +25,6 @@
   <a href="https://www.linkedin.com/in/caiqueborghese/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/caiqueborghese/caiqueborghese/blob/output/github-contribution-grid-snake.svg)
- 
+ <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueborghese&layout=compact)](https://github.com/caiqueborghese/github-readme-stats)
 </div>
