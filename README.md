@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning GO | HTML | CSS | JS.
 - 📚 I'm Graduating Computer Science.
-- 🌱 I’m currently learning ORACLE ONE/ ORACLE + Alura.
+- 🌱 I’m currently learning DevClub.
 <div align="center">
   <a href="https://github.com/caiqueborghese">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=caiqueborghese&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
